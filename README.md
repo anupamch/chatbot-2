@@ -44,7 +44,7 @@ Generate a response from the local LLM.
    ```
 4. Run the server:
    ```bash
-   uvicorn app:app --reload
+   python app.py
    ```
 
 The API will be available at `http://localhost:8000`.
