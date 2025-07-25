@@ -58,3 +58,8 @@ Once the server is running, visit:
 ## Logs
 
 Interactions are logged to the `logs` directory in JSON format, with one file per day.
+
+## CLI
+
+A CLI has added. Run the server first: python app.py. 
+Open another terminal and run this:  python cli.py "What is artificial intelligence?"
